@@ -1,4 +1,4 @@
-  <h2><a target="__blank" href="https://falcon-fitness-63a57.web.app/">Falcon Fitness</a></h2>
+  <h2><a target="__blank" href="https://falcon-fitness.netlify.app/">Falcon Fitness</a></h2>
  <p>
  <strong>Falcon Fitness</strong> is a personal  Gym trainer website more like a portfolio. It's a <strong>React</strong> Based website for authentication system i used <strong>Google Firebase</strong>.
  </p>
