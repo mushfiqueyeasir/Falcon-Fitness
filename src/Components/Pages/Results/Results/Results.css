@@ -1,0 +1,16 @@
+.bgbody {
+    background-color: #151515;
+
+}
+
+.reviewTitle {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    color: #E55501;
+}
+
+.titleResult {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    color: white;
+}

@@ -1,0 +1,22 @@
+.articleBody {
+    background-color: #0A0A0A;
+}
+
+.imageIcon {
+    background-color: #232323;
+}
+
+.col:hover .imageIcon {
+    transition: .6s;
+    transform: scale(1.2);
+}
+
+.flexTitle {
+    font-family: 'Poppins', sans-serif;
+    color: whitesmoke;
+    font-weight: 600;
+}
+
+.flexParagraph {
+    color: #99999B;
+}

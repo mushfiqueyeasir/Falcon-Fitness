@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "name": "Patricia L Robbins",
+        "img": "https://i.ibb.co/S3ZRhc2/f1.jpg",
+        "rating": 5,
+        "description": "During my plan with Ifat, I exceeded even my own expectations by losing 13lb and dropping 2 dress sizes from a size 12 to a size 8. The most important thing I can take away from my experience with Ifat is that I have skills that I can implement into my daily life forever. I feel confident for the first time in years and it is all down to Ifat."
+    },
+    {
+        "id": "2",
+        "name": "Edward A Perez",
+        "img": "https://i.ibb.co/Ptqj237/m1.jpg",
+        "rating": 5,
+        "description": "Ifat's online coaching has helped me feel more comfortable within myself and given me the confidence to eat better foods and train with my goals in mind. Before that i was disappointed with my life style. I would highly recommend Ifat in his approach to coaching you to achieve your desired results."
+    },
+    {
+        "id": "3",
+        "name": "Lillian G Young",
+        "img": "https://i.ibb.co/jkLr0m1/f2.jpg",
+        "rating": 4.5,
+        "description": "After gaining some unwanted weight and a lack of physical training I decided to use Ifat as my online personal trainer. At first I was quite anxious but after speaking to Ifat, I decided to take his advice and start an online package.  Highly recommend to anyone who is looking to change their health and fitness for the better!"
+    },
+    {
+        "id": "4",
+        "name": "Scott M Coggin",
+        "img": "https://i.ibb.co/MGt7TBH/m2.jpg",
+        "rating": 5,
+        "description": "It's been 10 years since I last entered a gym so I wanted to make sure I got my training plan right. Ifat provided an excellent fitness program with great attention to detail, tailored exactly to my needs and ability and advised on the necessary nutrition to compliment the training. Can highly recommend Ifat"
+    },
+    {
+        "id": "5",
+        "name": "Tyesha T Gomez",
+        "img": "https://i.ibb.co/vHWDsct/f3.jpg",
+        "rating": 5,
+        "description": "Ifat has been training me for 6 months now and it’s been fantastic. He manages to find that perfect balance of pushing you to the point where you can just about do it rather than to complete failure.  I think that’s all pretty good at 45. I highly recommend Ifat to anyone who really wants to put the effort in and get in shape!"
+    },
+    {
+        "id": "6",
+        "name": "​Hugo M Shaw",
+        "img": "https://i.ibb.co/wcjSrYb/m3.jpg",
+        "rating": 4.5,
+        "description": "Pre COVID I was a daily gym goer. But since trying Ifat out whilst at home there is no going back for me! Ifat is great, always there with help and advise which you can trust and so easy to talk to. I have really noticed a difference in my fitness just in the short time I have been training with him online and look forward to continuing."
+    }
+]
